@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "How can be describe an array in the best possible way?",
+      option1: "The Array shows a hierarchical structure",
+      option2: "Array are immutable",
+      option3: "Container that stores the element of similar types",
+      option4: "The Array is not a data structure",
+      ans: 3,
+    },
+    {
+      question: "Which one of the following is the process of inserting an element in the stack?",
+      option1: "Insert",
+      option2: "Add",
+      option3: "Push",
+      option4: "None of the above",
+      ans: 3,
+    },
+    {
+      question: "which one of the following is not the application of the stack data structure?",
+      option1: "String reversal",
+      option2: "Recursion",
+      option3: "Backtracking",
+      option4: "Asynchronous data transfer",
+      ans: 4,
+    },
+    {
+      question: "Which data structure is mainly used for implementing the recursive algorithm?",
+      option1: "Queue",
+      option2: "Stack",
+      option3: "Binary Tree",
+      option4: "Linked list",
+      ans: 2,
+    },
+    {
+      question: "If the element '1','2','3', and '4' are added in a stack, so what would be the ordr for the removal?",
+      option1: "1234",
+      option2: "2134",
+      option3: "4321",
+      option4: "None of the above",
+      ans: 3,
+    },
+  ];
